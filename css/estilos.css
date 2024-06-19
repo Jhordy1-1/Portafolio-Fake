@@ -1,0 +1,39 @@
+body{
+    overflow-x: hidden;
+}
+.cabecera{
+    background-image: url(/img/images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+    height: 600px;
+    color: white;
+}
+
+.nav-link,a {
+    color: white;
+}
+.nav-link:hover{
+    color: rgb(199, 199, 199);
+}
+a {
+    color: #212529;
+}
+a{
+    text-decoration: none;
+    color: #212529;
+}
+
+.centro>button{
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.centro>h3{
+    height: 20px;
+    text-align: center;
+}
+footer{
+    background-color: #198754;
+}
